@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Drop all" type="DatabaseScript" editBeforeRun="true">
+    <script-file value="$PROJECT_DIR$/src/main/java/cz/cvut/fel/dbs/sql/drop_all.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="ba104b3e-1e06-4e5d-ba02-42ea91613d34" namespace="database/&quot;zviazyau&quot;/schema/&quot;public&quot;" />
+    <method v="2" />
+  </configuration>
+</component>

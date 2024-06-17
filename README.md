@@ -15,5 +15,7 @@ You can also check the original Notion pages with code highlights [here](https:/
 ---
 
 Program for schemes: [draw.io](https://draw.io/)
+
 Program for database: [pgadmin4](https://www.pgadmin.org/)
+
 SQL language: [PostgreSQL](https://www.postgresql.org/)
